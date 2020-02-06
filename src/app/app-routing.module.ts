@@ -17,5 +17,5 @@ const routes: Routes = [
   exports: [RouterModule]
 })
 
-export class AppRoutingModuleModule { }
+export class AppRoutingModule{ }
 export const routingComponents = [AppComponent, ParentComponent,ChildComponent]
